@@ -45,6 +45,9 @@ These were derived using Excel formulas to enable performance analysis.
   - Profit performance
   - Sales distribution
 
+### Dashboard Preview
+![Sales Analysis Dashboard](sales%20analysis%20dashboard.png)
+
 ---
 
 ## Key Insights
