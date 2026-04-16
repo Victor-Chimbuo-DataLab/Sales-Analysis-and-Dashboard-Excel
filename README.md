@@ -46,7 +46,7 @@ These were derived using Excel formulas to enable performance analysis.
   - Sales distribution
 
 ### Dashboard Preview
-![Sales Analysis Dashboard](sales%20analysis%20dashboard.png)
+![Sales Analysis Dashboard](Sales%20Analysis%20Dashboard.png)
 
 ---
 
